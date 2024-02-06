@@ -1,7 +1,18 @@
-# Social-Feed-Guardian
-In the era of social media we are exposed to negative content such as hatred speech, graphic image, misinformation and many other forms of harmful expression which affect our mental well-being, health and emotions. 
+# ig_autolike_and_comment
 
-The problem  can be resolved through tdevelopment of an innovative browser extension called "Social feed guardian " that allows users to refresh their social media feed based on their personal preferences when user's threshold for negative content exposure is exceeded.
+update : 0.0.2
+- fix bug counter
 
- It is a user-friendly interface that enables individuals to specify their content preferences, such as topics, sources, and engagement metrics and when your negative content feed exposure time increases then this tool will automatically refresh your feed  as well as motivated content according to your choices. The problem can be resolved using avascript  core functionality and interaction and  machine learning models to trained our tool for labelled data and to improve content classification accuracy over time.
-By automating feed refreshing in response to excessive negative content exposure user can enjoy a healthier, safer , enjoyable and user centric online environment.
+Instagram Autolike and Comment Chrome Extension
+
+very simple macro to like and comment on instagram, use with random interval so it looks like normal user's activity
+you can set min-max interval between like action( in seconds ), to make it more random, you should keep interval between 5-30.
+
+the extension may not work in the future if Instagram changes their layout, in this case, you should subscribe my channel to get an update for the new script
+Or You can watch my youtube video how to do that.
+
+Youtube Demo :
+https://www.youtube.com/watch?v=rdI6qFNhAKA
+
+Please subscribe :
+https://www.youtube.com/channel/UCqRqvw9n7Lrh79x3dRDOkDg
