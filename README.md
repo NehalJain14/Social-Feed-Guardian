@@ -1,4 +1,4 @@
-“The Social Feed Guardian” 
+**“The Social Feed Guardian”** 
 
 In the era of social media we are exposed to negative content such as hatred speech, graphic image, misinformation and many other forms of harmful expression which affect our mental well-being, health and emotions. 
 
