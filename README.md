@@ -1,3 +1,5 @@
+“The Social Feed Guardian” 
+
 In the era of social media we are exposed to negative content such as hatred speech, graphic image, misinformation and many other forms of harmful expression which affect our mental well-being, health and emotions. 
 
 The problem  can be resolved through tdevelopment of an innovative browser extension called "Social feed guardian " that allows users to refresh their social media feed based on their personal preferences when user's threshold for negative content exposure is exceeded.
